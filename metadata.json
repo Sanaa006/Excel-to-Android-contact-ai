@@ -1,0 +1,5 @@
+{
+  "name": "Excel to Android Contacts AI",
+  "description": "An intelligent tool that analyzes Excel files to extract names and phone numbers, converting them into Android-compatible vCard files.",
+  "requestFramePermissions": []
+}
